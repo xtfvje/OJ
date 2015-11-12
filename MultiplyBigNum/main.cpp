@@ -104,6 +104,7 @@ void reverse_data(string &data)
 		data[end--] = temp;
 	}
 }
+
 void compute_value(string lhs, string rhs, string &result)
 {
 	reverse_data(lhs);
