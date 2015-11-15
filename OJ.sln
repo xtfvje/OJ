@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiplyBigNum", "MultiplyB
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SavePrincess", "SavePrincess\SavePrincess.vcxproj", "{DC7FA0E8-3EB4-49A8-8517-1B31A7497796}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindKthToTail", "FindKthToTail\FindKthToTail.vcxproj", "{B5CCBF7E-9737-4C37-8583-358BA847F104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{DC7FA0E8-3EB4-49A8-8517-1B31A7497796}.Release|x64.Build.0 = Release|x64
 		{DC7FA0E8-3EB4-49A8-8517-1B31A7497796}.Release|x86.ActiveCfg = Release|Win32
 		{DC7FA0E8-3EB4-49A8-8517-1B31A7497796}.Release|x86.Build.0 = Release|Win32
+		{B5CCBF7E-9737-4C37-8583-358BA847F104}.Debug|x64.ActiveCfg = Debug|x64
+		{B5CCBF7E-9737-4C37-8583-358BA847F104}.Debug|x64.Build.0 = Debug|x64
+		{B5CCBF7E-9737-4C37-8583-358BA847F104}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5CCBF7E-9737-4C37-8583-358BA847F104}.Debug|x86.Build.0 = Debug|Win32
+		{B5CCBF7E-9737-4C37-8583-358BA847F104}.Release|x64.ActiveCfg = Release|x64
+		{B5CCBF7E-9737-4C37-8583-358BA847F104}.Release|x64.Build.0 = Release|x64
+		{B5CCBF7E-9737-4C37-8583-358BA847F104}.Release|x86.ActiveCfg = Release|Win32
+		{B5CCBF7E-9737-4C37-8583-358BA847F104}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
