@@ -1,3 +1,28 @@
+
+#if 1
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+	int a = 3;
+	int b = 12;
+	const char* str = "1245";
+
+	//std::swap(a, b);
+	int c = atoi(str);
+
+	cout << "c = " << c << endl;
+
+	cout << "a = " << a << ", b = " << b << endl;
+
+	return 0;
+}
+
+#endif 
+
+
 #if 0
 #include <iostream>
 #include <string>
@@ -81,7 +106,7 @@ void multiply2(bigcheng2 &tempcheng2)
 #endif 
 
 
-#if 1
+#if 0
 
 #include <iostream>
 #include <string>
